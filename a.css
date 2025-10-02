@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+#menu{
+    display: block;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+}
+#menu a {
+	margin-right: 5px;
+	padding: 10px;
+	font: 15px;
+	text-decoration: none;
+	color: gray;
+	border: 1px solid lightslategray;
+	background-color: white;
+}
+#menu a:hover, #menu a.active {
+	color: black;
+	background-color: darkgray;
+}
+#tech {
+    background-color: gray;
+}
+#tech h2{
+    font-size: 40px;
+}
+#tech h1 {
+   font-size:20px;
+}
+#tech2 {
+    background-color: gray;
+}
+.pic{
+    float: left;
+    width: 100px;
+    margin-right: 10px;
+}
+.pic1 {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    width: 100px;
+}
+
+.imgss{
+    margin: 0;
+    text-align: justify;
+}
+#abtus{
+    background-color: gray;
+}
+#partner{
+    background-color: gray;
+}
+.durov{
+        float: left;
+        width: 100px;
+        margin-right: 10px;     
+}
+.part1{  
+        padding-top: 20px;
+        margin: 0;
+        text-align: justify;
+}
